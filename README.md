@@ -1,5 +1,5 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
-
+## DATE :  
+# EXPERIMENT NO :2  BOOLEAN_FUNCTION_MINIMIZATION
 ## AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -12,11 +12,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-## Software – Quartus prime
-
-**Theory**
-
-##Logic Diagram
+## Software – Quartus prime  
 
 ## Procedure
 
